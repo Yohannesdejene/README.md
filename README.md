@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left">Some of recent projects ojects I've Worked On:</h3>
+<h3 align="left">Some of recent projects  I've Worked On:</h3>
 <ul>
     <li>
         <strong>Multi vernder e-commemerce platform:</strong> <a href="https://commercepal.com/browse" target="_blank">Link</a>  
