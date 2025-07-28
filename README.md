@@ -1,11 +1,11 @@
 <h1 align="center">Hi There! 👋, I'm Yohannes Dejene</h1>
-<h3 align="center">An aspiring Front end developer, excited to build, develop, and create. Currently working on Frontend development as HudHud Expres. I’m passionate about learning new technologies.</h3>
+<h3 align="center">An aspiring Front end developer, excited to build, develop, and create. Currently working on Frontend development as HudHud Express. I’m passionate about learning new technologies.</h3>
 
 - 👯 I’m looking to collaborate on **React.js/Next js + AI based projects**
 
 - 🌱 I’m currently learning AI, RAG implementation
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap 4, shadcn, Javascript(ES6), Typescript, React.js, Next js**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap 5, Shadcn, Javascript, Typescript, React.js, Next js**
 
 - 📫 Reach me at **yohannesdejene23@gmail.com**
 
@@ -18,7 +18,7 @@
     <li>
         <strong>Multi vernder e-commemerce platform:</strong> <a href="https://commercepal.com/browse" target="_blank">Link</a>  
         <br>
-        <strong>Description:</strong> A platform for multi vendor e-commerce, it is a platform that allows users to browse and purchase products from multiple vendors.
+        <strong>Description:</strong> A multi-vendor e-commerce platform that allows users to browse and purchase products from various vendors. The system is integrated with global API providers such as Alibaba, Shein, AliExpress, and Amazon, enabling seamless product sourcing and a wide range of offerings.
     </li>
     <li>
         <strong>Invitation management app for :</strong> <a href="https://beta.mazoom.sa/" target="_blank">Links</a>  
