@@ -23,7 +23,7 @@
     <li>
         <strong>Invitation management app for :</strong> <a href="https://beta.mazoom.sa/" target="_blank">Links</a>  
         <br>
-        <strong>Description:</strong>An invitation management app for the Mazoom platform(Suadi arabian clients) that allows users to manage their invitations and track their progress.
+        <strong>Description:</strong>An invitation management app for the Mazoom platform(Saudi arabian clients) that allows users to manage their invitations and track their progress.
     </li>
     <li>
         <strong>Short sms managment website for hudhud clients</strong> <a href="http://196.188.172.179:3008/" target="_blank">Link</a>  
